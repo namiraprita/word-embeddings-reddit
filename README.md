@@ -1,5 +1,5 @@
-# word-embeddings-reddit
-Harry Potter Character MBTI Personality Predictor
+# Harry Potter Character MBTI Personality Predictor
+
 This project aims to predict the MBTI personality types of lead characters from the Harry Potter movie series, utilizing word embedding techniques with the Skip-Gram approach.
 
 📑 Table of Contents
